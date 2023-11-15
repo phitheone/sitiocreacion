@@ -1,0 +1,46 @@
+.CSuper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../../images/bgclientes.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.CContainer {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  justify-content: baseline;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.CContainer h1 {
+  font-size: 52px;
+  font-weight: bold;
+  color: var(--color2);
+}
+
+.CContainer span {
+  color: var(--bgcolor2);
+}
+
+.CImages {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.CImages::after {
+  content: "";
+  flex: auto;
+}
+
+.CImages img {
+  margin: 35px;
+}

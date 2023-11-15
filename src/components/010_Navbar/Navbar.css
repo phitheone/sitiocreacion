@@ -1,0 +1,59 @@
+.NSuper {
+  position: fixed;
+  height: 190px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  transition: 0.3s ease-in;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(243, 243, 243, 0.8);
+
+  /* border: solid red 2px; */
+}
+
+.NSuper-alt {
+  height: 80px;
+}
+
+.NContent {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.NLogo img {
+  cursor: pointer;
+  height: 140px;
+  transition: 0.3s ease-in;
+}
+
+.NLogo-alt img {
+  height: 70px;
+}
+
+.NNavigation {
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.NNavigation p {
+  font-size: 28px;
+  transition: 0.2s ease-in;
+}
+
+.NNavigation p:hover {
+  scale: 1.05;
+  cursor: pointer;
+}
+
+.NNavigation span {
+  color: var(--color1);
+}

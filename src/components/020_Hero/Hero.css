@@ -1,0 +1,81 @@
+.HDummie {
+  height: 190px;
+}
+
+.HSuper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../../images/bghero.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  background-position: center;
+  height: 720px;
+}
+
+.HContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 500px;
+  width: 50%;
+
+  /* border: solid red 1px; */
+}
+
+.HTitle {
+  /* border: solid red 1px; */
+  margin: 0px;
+}
+
+.HTitle h1 {
+  font-size: 102px;
+  color: var(--color1);
+  margin: 0;
+}
+
+.HSubtitle {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.HSubtitle h2 {
+  font-size: 50px;
+  color: var(--color2);
+  margin: 0;
+}
+
+.HSubtitle span {
+  color: var(--color1);
+  margin: 0;
+}
+
+.HParagraph {
+  margin: 40px;
+}
+
+.HParagraph p {
+  color: var(--bgcolor1);
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.HIso {
+  position: absolute;
+  background-color: var(--bgcolor1);
+  border-radius: 1000px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  bottom: -95px;
+  box-shadow: 5px 5px 20px 1px var(--bgcolor2);
+}
+
+.HIso img {
+  height: 170px;
+}
