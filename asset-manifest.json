@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ab52654.css",
-    "main.js": "/static/js/main.dff77f46.js",
+    "main.css": "/static/css/main.b1d1107a.css",
+    "main.js": "/static/js/main.226c0eb4.js",
     "static/media/bgfooter.png": "/static/media/bgfooter.e4c738114cf1a13bbe39.png",
     "static/media/bgclientes.png": "/static/media/bgclientes.3a619615a90b0e43630f.png",
     "static/media/bgpartner.png": "/static/media/bgpartner.7a15cbec61ab5f75ce12.png",
@@ -13,9 +13,11 @@
     "static/media/6.png": "/static/media/6.adc9cdb3957dba4dc974.png",
     "static/media/t5.png": "/static/media/t5.63a69ac2165a23d6262c.png",
     "static/media/t1.png": "/static/media/t1.c241d5b45f236c594d07.png",
+    "static/media/leandro.png": "/static/media/leandro.3b5810d99a95288a5a8a.png",
     "static/media/t2.png": "/static/media/t2.6ea27d7396f0b74d2b56.png",
     "static/media/t7.png": "/static/media/t7.780722c85f7c4a5d6dd9.png",
     "static/media/5.png": "/static/media/5.609f42e3c9cfdae275d2.png",
+    "static/media/josepablo.png": "/static/media/josepablo.26b6110a706fd10c12fd.png",
     "static/media/t6.png": "/static/media/t6.2037a499a59dbf9a6c3d.png",
     "static/media/2.png": "/static/media/2.62879d609901791c5f4f.png",
     "static/media/logob.png": "/static/media/logob.b6a30c7c0e76632662be.png",
@@ -29,6 +31,7 @@
     "static/media/s1.png": "/static/media/s1.c233a98861809e773fab.png",
     "static/media/9.png": "/static/media/9.f02dac084eaacbc1ce87.png",
     "static/media/1.png": "/static/media/1.10a085487ffc518aae47.png",
+    "static/media/evelynstudio.png": "/static/media/evelynstudio.eeb607ab7d0762b0d5c7.png",
     "static/media/s3.png": "/static/media/s3.14601ff4c5b1828e3eb5.png",
     "static/media/bgteamcard.png": "/static/media/bgteamcard.07a4a653a5ee66c9c7da.png",
     "static/media/s4.png": "/static/media/s4.2a82747452918353a37e.png",
@@ -37,11 +40,11 @@
     "static/media/mail.png": "/static/media/mail.dc48aa473ed953cbd2a0.png",
     "static/media/instagram.png": "/static/media/instagram.d4a52c1f31dbb72d6a30.png",
     "index.html": "/index.html",
-    "main.5ab52654.css.map": "/static/css/main.5ab52654.css.map",
-    "main.dff77f46.js.map": "/static/js/main.dff77f46.js.map"
+    "main.b1d1107a.css.map": "/static/css/main.b1d1107a.css.map",
+    "main.226c0eb4.js.map": "/static/js/main.226c0eb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ab52654.css",
-    "static/js/main.dff77f46.js"
+    "static/css/main.b1d1107a.css",
+    "static/js/main.226c0eb4.js"
   ]
 }
